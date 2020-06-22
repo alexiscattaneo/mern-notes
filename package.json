@@ -15,6 +15,7 @@
     "react-scripts": "3.4.1",
     "timeago.js": "^4.0.2"
   },
+  "homepage":"https://alexiscattaneo.github.io/mern-notes",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
